@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+button{
+  background-color: lightseagreen;
+  height: 40px;
+  color: wheat;
+  background-color: lightseagreen;
+  border: 1px solid lightseagreen;
+  margin: 2px;
+  border-radius: 8px;
+  outline: none;
+
+}
+h1{
+  font-weight: bold;
+}

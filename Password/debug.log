@@ -1,0 +1,12 @@
+[0213/182847.098:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Access is denied. (0x5)
+[0213/182847.167:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0213/182847.168:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Access is denied. (0x5)
+[0213/182847.676:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0213/201609.948:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Access is denied. (0x5)
+[0213/201609.954:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0213/201609.954:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Access is denied. (0x5)
+[0213/201610.924:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0214/110405.426:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Access is denied. (0x5)
+[0214/110405.472:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0214/110405.473:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: Access is denied. (0x5)
+[0214/110405.505:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured

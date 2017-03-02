@@ -1,0 +1,35 @@
+body {
+  margin: 150;
+  padding: 0;
+  font-family: sans-serif;
+}
+table{
+  border: 1px solid lightseagreen;
+  margin-top: 20px;
+}
+td{
+  border: 1px solid lightseagreen;
+}
+th{
+  background-color:lightseagreen;
+  color: wheat;
+}
+button{
+  background-color: lightseagreen;
+  height: 40px;
+  color: wheat;
+  border: 1px solid lightseagreen;
+  border-radius: 10px;
+}
+a{
+  background-color: lightseagreen;
+  height:0px;
+  color: wheat;
+  border: 1px solid lightseagreen;
+  border-radius: 10px;
+  margin: 03px;
+  padding: 10px;
+}
+.toolbar{
+  margin-top: 50px;
+}
